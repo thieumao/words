@@ -2,63 +2,63 @@
   "lessons": [
     {
       "lessonId": 0,
-      "lessonName": "Accommodation",
-      "flashcards": "vocabulary/accommodation.txt",
-      "image": "vocabulary/accommodation.png"
+      "lessonName": "Contracts",
+      "flashcards": "TOEIC/Contracts.txt",
+      "image": "TOEIC/Contracts.jpg"
     },
     {
       "lessonId": 1,
-      "lessonName": "Appearance",
+      "lessonName": "Marketing",
       "flashcards": "vocabulary/appearance.txt",
-      "image": "vocabulary/appearance.png"
+      "image": "TOEIC/Marketing.jpg"
     },
     {
       "lessonId": 2,
-      "lessonName": "Books and films",
+      "lessonName": "Warranties",
       "flashcards": "vocabulary/books and films.txt",
-      "image": "vocabulary/books and films.png"
+      "image": "TOEIC/Warranties.jpg"
     },
     {
       "lessonId": 3,
-      "lessonName": "Business",
+      "lessonName": "Business Planning",
       "flashcards": "vocabulary/business.txt",
-      "image": "vocabulary/business.png"
+      "image": "TOEIC/BusinessPlanning.jpg"
     },
     {
       "lessonId": 4,
-      "lessonName": "Cities",
+      "lessonName": "Conferences",
       "flashcards": "vocabulary/city.txt",
-      "image": "vocabulary/city.png"
+      "image": "TOEIC/Conferences.jpg"
     },
     {
       "lessonId": 5,
-      "lessonName": "Clothes",
+      "lessonName": "Computers and the Internet",
       "flashcards": "vocabulary/clothes.txt",
-      "image": "vocabulary/clothes.png"
+      "image": "TOEIC/ComputersAndTheInternet.jpg"
     },
     {
       "lessonId": 6,
-      "lessonName": "Education",
+      "lessonName": "Offices Technology",
       "flashcards": "vocabulary/education.txt",
-      "image": "vocabulary/education.png"
+      "image": "TOEIC/OfficeTechnology.jpg"
     },
     {
       "lessonId": 7,
-      "lessonName": "Food",
+      "lessonName": "Office Procedures",
       "flashcards": "vocabulary/food.txt",
-      "image": "vocabulary/food.png"
+      "image": "TOEIC/OfficeProcedures.jpg"
     },
     {
       "lessonId": 8,
-      "lessonName": "Health",
+      "lessonName": "Electronics",
       "flashcards": "vocabulary/health.txt",
-      "image": "vocabulary/health.png"
+      "image": "TOEIC/Electronics.jpg"
     },
     {
       "lessonId": 9,
-      "lessonName": "Holidays",
+      "lessonName": "Correspondence",
       "flashcards": "vocabulary/holiday.txt",
-      "image": "vocabulary/holiday.png"
+      "image": "TOEIC/Correspondence.jpg"
     },
     {
       "lessonId": 10,
